@@ -33,7 +33,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 
 MINI_APP_URL      = os.environ.get("MINI_APP_URL", "")
 CHANNEL_ID        = os.environ.get("CHANNEL_ID", "")   # e.g. @MantisAirdrops
-SUBMISSIONS_SHEET = os.environ.get("SUBMISSIONS_URL", "https://forms.gle/v4Z54CYWK7TwT2Cx8)
+SUBMISSIONS_SHEET = os.environ.get("SUBMISSIONS_URL", "https://forms.gle/v4Z54CYWK7TwT2Cx8")
 
 DAILY_HOUR   = 8
 DAILY_MINUTE = 0
